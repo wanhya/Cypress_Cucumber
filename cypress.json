@@ -1,0 +1,4 @@
+{ 
+    "testFiles": "**/*.feature",
+    "baseUrl": "https://www.jotform.com/form/212455605883662"
+}
