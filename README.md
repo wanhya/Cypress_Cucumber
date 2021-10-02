@@ -85,3 +85,7 @@ a leitura mais amigável.
 3. Dentro da pasta **cypress/integration/** criaremos uma pasta com o mesmo nome do arquivo de extensão feature.
 4. Dentro dessa nova pasta criaremos um arquivo acrescido da palavra "Steps" ou apenas steps.js. 
 5. Neste arquivo criamos os steps e dentro de cada step executaremos uma ou mais funções
+
+## Referência Utilizada
+
+MEDIUM. **Testes automatizados com Cypress e Cucumber**. Disponível em: https://medium.com/cwi-software/testes-automatizados-com-cypress-e-cucumber-d78b211da766.
